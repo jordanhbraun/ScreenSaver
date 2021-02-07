@@ -1,0 +1,43 @@
+/* Video */
+#volvoScreensaver {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Text */
+.title {
+  position: fixed;
+  top: 0;
+  color: #FFFFFF;
+  width: 100%;
+  padding: 96px;
+}
+
+h1 {
+  font-family: 'Volvo Novum Medium';
+  letter-spacing: -2px;
+  font-size: 96px;
+  line-height: 56px;
+}
+
+h2 {
+  font-family: 'Volvo Novum SemiLight';
+  letter-spacing: -6px;
+  font-size: 96px;
+  line-height: 0px;
+}
+
+/* NFC Tap */
+.bottomright {
+     position: fixed;
+     bottom: 96px;
+     right: 96px;
+}
+
+.nfc {
+
+
+}
